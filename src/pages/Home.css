@@ -1,0 +1,15 @@
+.home {
+  padding-top: 80px; /* Account for fixed header */
+}
+
+/* Ensure proper spacing between sections */
+.home > * {
+  margin-bottom: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .home {
+    padding-top: 70px;
+  }
+} 

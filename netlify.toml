@@ -1,5 +1,6 @@
 [build]
-  publish = "."
+  publish = "build"
+  command = "npm run build"
 
 [build.environment]
   NODE_VERSION = "18"
@@ -41,3 +42,8 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+[dev]
+  command = "npm start"
+  port = 3000
+  publish = "build"
