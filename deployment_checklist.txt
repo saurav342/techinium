@@ -1,0 +1,56 @@
+# Netlify Deployment Checklist for Techinium Website
+
+## Files to Upload:
+- [ ] index.html
+- [ ] style.css  
+- [ ] app.js
+- [ ] _redirects
+- [ ] netlify.toml
+- [ ] README.md
+
+## Deployment Steps:
+
+### Method 1: Drag & Drop (Easiest)
+1. [ ] Zip all files together OR create a folder with all files
+2. [ ] Go to https://app.netlify.com/drop
+3. [ ] Drag the folder/zip file to deploy
+4. [ ] Wait for deployment to complete
+5. [ ] Test the live website
+
+### Method 2: Git Integration (Recommended for updates)
+1. [ ] Create new repository on GitHub
+2. [ ] Upload all files to the repository
+3. [ ] Go to https://app.netlify.com
+4. [ ] Click "New site from Git"
+5. [ ] Connect GitHub and select repository
+6. [ ] Deploy settings should be automatic due to netlify.toml
+7. [ ] Deploy site
+
+## After Deployment:
+- [ ] Test all navigation links
+- [ ] Verify contact form (will show alert)
+- [ ] Check responsive design on mobile
+- [ ] Test all interactive elements
+- [ ] Verify all sections load properly
+- [ ] Check performance with Lighthouse
+
+## Domain Setup (Optional):
+- [ ] Purchase domain (e.g., techinium.com)
+- [ ] In Netlify dashboard, go to Domain settings
+- [ ] Add custom domain
+- [ ] Configure DNS settings
+- [ ] Enable HTTPS (automatic with Netlify)
+
+## Post-Deployment:
+- [ ] Set up Google Analytics (add tracking code to index.html)
+- [ ] Set up contact form handling (use Netlify Forms or external service)
+- [ ] Consider adding real testimonials and portfolio items
+- [ ] Optimize images if added later
+- [ ] Set up monitoring and backups
+
+## Notes:
+- The website is fully responsive and optimized for performance
+- All animations and interactions are included
+- Contact form currently shows alerts (integrate with Netlify Forms for real functionality)
+- Color scheme uses pink, green, purple, and golden yellow as requested
+- All 12 AI-enhanced services are included from the provided document
