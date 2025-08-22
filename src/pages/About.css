@@ -14,6 +14,7 @@
   font-weight: 700;
   margin-bottom: 1.5rem;
   line-height: 1.2;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about-hero__description {
@@ -22,6 +23,7 @@
   margin: 0 auto;
   opacity: 0.9;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about-content {
@@ -40,13 +42,15 @@
   font-size: 1.8rem;
   font-weight: 600;
   margin-bottom: 1.5rem;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about__section p {
-  color: #666;
+  color: #4B5563;
   line-height: 1.8;
   font-size: 1.1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .about__values {
@@ -57,7 +61,8 @@
   font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 3rem;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .values__grid {
@@ -67,7 +72,7 @@
 }
 
 .value-item {
-  background: #f8f9fa;
+  background: #FFFFFF;
   padding: 2rem;
   border-radius: 20px;
   border: 1px solid rgba(50, 205, 50, 0.1);
@@ -90,12 +95,14 @@
   font-size: 1.3rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .value-item p {
-  color: #666;
+  color: #4B5563;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* Responsive Design */

@@ -43,7 +43,8 @@
 .nav__title {
   font-size: 1.5rem;
   font-weight: 700;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav__menu {
@@ -61,10 +62,11 @@
 
 .nav__link {
   text-decoration: none;
-  color: #333;
+  color: #4B5563;
   font-weight: 500;
   transition: color 0.3s ease;
   position: relative;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav__link:hover,
@@ -79,7 +81,7 @@
   left: 0;
   width: 100%;
   height: 2px;
-  background: linear-gradient(135deg, #FF69B4, #FFB6C1);
+  background: linear-gradient(135deg, #FF69B4, #9370DB);
   border-radius: 1px;
 }
 
@@ -88,7 +90,7 @@
   display: none;
   font-size: 1.5rem;
   cursor: pointer;
-  color: #333;
+  color: #4B5563;
 }
 
 /* Mobile Navigation */

@@ -14,6 +14,7 @@
   font-weight: 700;
   margin-bottom: 1.5rem;
   line-height: 1.2;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .portfolio-hero__description {
@@ -22,11 +23,12 @@
   margin: 0 auto;
   opacity: 0.9;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .portfolio-content {
   padding: 100px 0;
-  background: #f8f9fa;
+  background: #FFFFFF;
 }
 
 .portfolio__grid {
@@ -57,7 +59,7 @@
   font-size: 4rem;
   text-align: center;
   padding: 2rem;
-  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  background: #FFFFFF;
 }
 
 .portfolio-item__content {
@@ -73,20 +75,23 @@
   font-size: 0.8rem;
   font-weight: 500;
   margin-bottom: 1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .portfolio-item__title {
   font-size: 1.4rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  color: #333;
+  color: #1F2937;
   line-height: 1.3;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .portfolio-item__description {
-  color: #666;
+  color: #4B5563;
   line-height: 1.6;
   margin-bottom: 1.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .portfolio-item__technologies {
@@ -102,6 +107,7 @@
   border-radius: 20px;
   font-size: 0.8rem;
   font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 @keyframes slideUp {

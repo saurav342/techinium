@@ -14,6 +14,7 @@
   font-weight: 700;
   margin-bottom: 1.5rem;
   line-height: 1.2;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .services-hero__description {
@@ -22,11 +23,12 @@
   margin: 0 auto;
   opacity: 0.9;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .services-content {
   padding: 100px 0;
-  background: #f8f9fa;
+  background: #FFFFFF;
 }
 
 .services__grid {
@@ -67,20 +69,23 @@
 .service-item__title {
   font-size: 1.4rem;
   font-weight: 600;
-  color: #333;
+  color: #1F2937;
   line-height: 1.3;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .service-item__description {
-  color: #666;
+  color: #4B5563;
   line-height: 1.6;
   margin-bottom: 1.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .service-item__technologies h4 {
-  color: #333;
+  color: #1F2937;
   margin-bottom: 1rem;
   font-size: 1.1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .tech-tags {
@@ -90,12 +95,13 @@
 }
 
 .tech-tag {
-  background: linear-gradient(135deg, #FF69B4, #FFB6C1);
+  background: linear-gradient(135deg, #FF69B4, #9370DB);
   color: white;
   padding: 0.3rem 0.8rem;
   border-radius: 20px;
   font-size: 0.8rem;
   font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 @keyframes slideUp {

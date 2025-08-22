@@ -4,7 +4,7 @@
 
 .contact-hero {
   background: linear-gradient(135deg, #FFD700, #FFF8DC);
-  color: #333;
+  color: #1F2937;
   padding: 100px 0;
   text-align: center;
 }
@@ -14,6 +14,7 @@
   font-weight: 700;
   margin-bottom: 1.5rem;
   line-height: 1.2;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact-hero__description {
@@ -22,6 +23,7 @@
   margin: 0 auto;
   opacity: 0.8;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact-content {
@@ -40,14 +42,16 @@
   font-size: 2rem;
   font-weight: 600;
   margin-bottom: 1.5rem;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact__info p {
-  color: #666;
+  color: #4B5563;
   line-height: 1.8;
   font-size: 1.1rem;
   margin-bottom: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact__details {
@@ -76,17 +80,19 @@
 .contact__detail h3 {
   font-size: 1.1rem;
   font-weight: 600;
-  color: #333;
+  color: #1F2937;
   margin-bottom: 0.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact__detail p {
-  color: #666;
+  color: #4B5563;
   margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contact__form {
-  background: #f8f9fa;
+  background: #FFFFFF;
   padding: 2rem;
   border-radius: 20px;
   border: 1px solid rgba(255, 215, 0, 0.1);
@@ -96,7 +102,8 @@
   font-size: 1.8rem;
   font-weight: 600;
   margin-bottom: 2rem;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .form-group {
@@ -107,7 +114,8 @@
   display: block;
   margin-bottom: 0.5rem;
   font-weight: 500;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .form-group input,
@@ -119,6 +127,7 @@
   border-radius: 10px;
   font-size: 1rem;
   transition: border-color 0.3s ease;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .form-group input:focus,
@@ -147,13 +156,15 @@
 .success-message h3 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #333;
+  color: #1F2937;
   margin-bottom: 1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .success-message p {
-  color: #666;
+  color: #4B5563;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* Responsive Design */

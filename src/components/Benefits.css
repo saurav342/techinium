@@ -1,6 +1,6 @@
 .benefits {
   padding: 100px 0;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  background: #FFFFFF;
 }
 
 .benefits__grid {
@@ -38,12 +38,14 @@
   font-size: 1.3rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  color: #333;
+  color: #1F2937;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .benefit-card__description {
-  color: #666;
+  color: #4B5563;
   line-height: 1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 @keyframes slideUp {
