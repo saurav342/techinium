@@ -67,6 +67,16 @@
   text-decoration: none;
   transition: all 0.3s ease;
   border: 1px solid rgba(255, 105, 180, 0.2);
+  cursor: pointer;
+}
+
+/* Button styling for social links */
+.footer__social-link[type="button"] {
+  background: rgba(255, 105, 180, 0.1);
+  color: #FF69B4;
+  border: 1px solid rgba(255, 105, 180, 0.2);
+  font-family: inherit;
+  padding: 0;
 }
 
 .footer__social-link:hover {
@@ -113,6 +123,20 @@
   font-size: 0.95rem;
   position: relative;
   padding-left: 0;
+}
+
+/* Button styling for footer links */
+.footer__link[type="button"] {
+  background: none;
+  border: none;
+  color: #D1D5DB;
+  text-decoration: none;
+  font-family: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+  width: 100%;
 }
 
 .footer__link:hover {
@@ -169,6 +193,18 @@
   text-decoration: none;
   font-size: 0.9rem;
   transition: color 0.3s ease;
+}
+
+/* Button styling for legal links */
+.footer__legal-link[type="button"] {
+  background: none;
+  border: none;
+  color: #9CA3AF;
+  text-decoration: none;
+  font-family: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 0;
 }
 
 .footer__legal-link:hover {
